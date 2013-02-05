@@ -19,7 +19,7 @@ http://openclipart.org
 
 See: http://openclipart.org/user-detail/jamiely
 
-<img src="/jamiely/solidius/raw/master/assets/grenade.png" alt="grenade">
+<img src="assets/grenade.png" alt="grenade">
 
 # Media
 
